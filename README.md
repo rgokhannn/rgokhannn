@@ -7,4 +7,4 @@
 
 ## Subheader
 
-Editer with tutorial.
+Edited with tutorial.
