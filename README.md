@@ -1,5 +1,5 @@
 # .info
-- 👋 Hi, I’m Recep!
-- 👀 I’m interested in Shell Scripting-Containerization Technologies-Cloud Computing-OOP-Java.
-- 🌱 I’m currently learning and gaining hands-on experiences about DevOps and CI/CD services on AWS like CodeBuild, CodePipeline, CodeDeploy. Whenever I find time, I also produce written content about the topics I have learned and am learning.
+- 👋 Hi, I’m Gokhan
+- 👀 I’m interested in Linux System Administration, Middleware Management, CI/CD, Shell Scripting and Cloud Computing.
+- 🌱 I’m currently working at Dias Teknoloji as a Application Operations & DevOps Specialist. Whenever I find time, I also produce written content about the topics I have learned and am learning on https://medium.com/@rggokmenn.
 - - 📫 My [LinkedIn](https://www.linkedin.com/in/rggokmen/) profile has more details.
